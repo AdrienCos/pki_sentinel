@@ -1,8 +1,1 @@
-*.key
 *.old
-
-CA/server/
-CA/client/
-
-
-test-ca/

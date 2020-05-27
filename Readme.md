@@ -1,6 +1,6 @@
 # Sentinel PKI generator
 
-This repo hosts all the code used to simpliy the generation of SSL certificates for the experiemntal setup of Sentinel. The private key of the CA has been willingly added to the repo, as this SSL network is only intended to be used for experimental purposes. 
+This repo hosts all the code used to simpliy the generation of SSL certificates for the experiemntal setup of Sentinel. The private keys of the CA and the client certificates have been willingly added to the repo, as this SSL network is only intended to be used for experimental purposes. 
 
 ## How to use it
 
