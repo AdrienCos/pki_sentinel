@@ -1,0 +1,13 @@
+# General CA configuration
+
+export COUNTRY=US
+export STATE=PA
+export ORG=SIIS
+export ORG_UNIT=SIIS_IoT
+export DOMAIN=siis.cse.psu.edu
+export EMAIL=amc1103@psu.edu
+
+export KEY_TYPE=rsa
+export KEY_LEN=2048
+
+export EXPIRY_DAYS=9999
